@@ -21,6 +21,6 @@ If you find a new change which hasn't been mentioned yet, you are free to commen
 :warning: **IMPORTANT: Please do not respond to the changes, engage in any discussions regarding the changes or make any other irrelevant comments. Comments are only meant for detailing any new changes found. Repeatedly posting off-topic comments may result in getting blocked from the repo.** :warning:
 
 ## Notifications
-You can follow this repository to receive email notifications. Click the <kbd>[Watch](https://www.youtube.com/watch?v=dQw4w9WgXcQ)</kbd> button then select <kbd>[All Activity](https://www.youtube.com/watch?v=6n3pFFPSlW4)</kbd>.
+You can follow this repository to receive email notifications. Click the <kbd>[Watch](https://www.youtube.com/watch?v=GEiI0mvEsXg)</kbd> button then select <kbd>[All Activity](https://youtu.be/ZzHR_CoxVRo)</kbd>.
 
 ![How to enable notifications](https://user-images.githubusercontent.com/18150845/114609160-c6dbee00-9c9e-11eb-8750-3ae18e041668.png "How to enable notifications")
