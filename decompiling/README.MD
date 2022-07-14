@@ -1,6 +1,8 @@
 # Decompiling guide
 
-This is a quick little guide on how to decompile Progressbar95's `resource.car` file.
+This is a quick little guide on how to decompile Progressbar95's `resource.car` file. The decompilation isn't perfect (all variable names are missing for example), but it gives us a good idea of what's going on.
+
+**It is currently impossible to recompile the game from the source code.**
 
 ## Requirements - Both methods
 
