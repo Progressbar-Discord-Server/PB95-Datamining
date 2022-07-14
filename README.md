@@ -1,7 +1,7 @@
 # PB95-Datamining
 Datamining is done through comparing the `main.lua` files contained in the `resources.car` file.
 
-Keep in mind that builds are decompiled by hand using a script. [Check out this folder for more info.]()
+Keep in mind that builds are decompiled by hand using a script ([Check out this folder for more info]()) and we only compare changes for the mobile version.
 
 ## Disclaimer
 
