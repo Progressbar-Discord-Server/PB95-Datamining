@@ -1,7 +1,7 @@
-# PB95-Datamining
+# PB95-Datamining 
 Datamining is done through comparing the `main.lua` files contained in the `resources.car` file.
 
-Keep in mind that builds are decompiled by hand using a script ([Check out this folder for more info](https://github.com/Progressbar-Discord-Server/PB95-Datamining/tree/main/decompiling)) and we only compare changes for the mobile version.
+Keep in mind that builds are decompiled by hand using a script ([Check out this folder for more info](https://github.com/Progressbar-Discord-Server/PB95-Datamining/tree/main/decompiling)).
 
 **It is currently impossible to recompile the game from the source code.**
 
