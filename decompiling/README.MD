@@ -18,7 +18,7 @@ These scripts do basically the same thing, but `decompile_diff.bat` is for datam
 
 If you don't want to use a script at all and want to do it by hand, here are the exact commands you need to run.
 
-Windows: 
+**Windows:**
 ```
 mkdir _OUTPUT
 corona-archiver -u resource.car _OUTPUT
