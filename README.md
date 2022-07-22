@@ -3,7 +3,7 @@ Datamining is done through comparing the `main.lua` files contained in the `reso
 
 Keep in mind that builds are decompiled by hand using a script ([Check out this folder for more info](https://github.com/Progressbar-Discord-Server/PB95-Datamining/tree/main/decompiling)).
 
-**It is currently impossible to recompile the game from the source code.**
+**It is currently impossible to recompile the game from the source code. In addition, it's also obfuscated.**
 
 ## Disclaimer
 
@@ -12,9 +12,6 @@ We are not affiliated, associated, authorized, endorsed by, or in any way offici
 The contents of this repository exist purely for educational purposes and its contributors do not condone sharing the content found here on any social media platform as your own.
 
 The contents of this repository are subject to change at the discretion of Spooky House Studios UG (haftungsbeschränkt). or be completely removed. Any new products or features discovered are subject to change and not guaranteed to release.
-
-## Build notes
-Every commit (that has some actual noteworthy changes) will have a comment tied to it with a small summary of what's changed.
 
 ## Contributing
 
