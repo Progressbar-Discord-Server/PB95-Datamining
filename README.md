@@ -5,7 +5,7 @@ Keep in mind that builds are decompiled by hand using a script ([Check out this 
 
 **It is currently impossible to recompile the game from the source code. In addition, it's also obfuscated.**
 
-***Thanks to [5jiji](https://github.com/5jiji) for the contribution of 84 android builds!***
+***Thanks to [5jiji](https://github.com/5jiji) for the contribution of 87 android builds!***
 
 ## Disclaimer
 
